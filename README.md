@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Title: Chips Snack Store**
 
 The Chips Snack Store website is a visually appealing and interactive platform designed to showcase a variety of snacks. It features an array of chips brands, allowing users to explore and purchase their favorite snacks effortlessly.
@@ -17,3 +18,6 @@ The Chips Snack Store website is a visually appealing and interactive platform d
 6. **Color Scheme and Design:** The website employs a modern design with a vibrant color palette, creating an inviting atmosphere for snack lovers.
 
 **Live Link:** https://pragalp.github.io/chips/
+=======
+# chips
+>>>>>>> 3d50af5c33525694e5ef93d432e104535f370934
